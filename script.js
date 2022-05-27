@@ -31,13 +31,13 @@ const dogs = [{ name: 'Snickers', age: 2 }, { name: 'hugo', age: 8 }];
     console.assert(p.classList.contains("darkMode"), "This is wrong");
 
     // clearing
-    console.clear()
+    //console.clear()
 
     // Viewing DOM Elements
     console.log(p);
     console.dir(p);
     
-    console.clear(); 
+    //console.clear(); 
 
     // Grouping together
     dogs.forEach(dog => {
