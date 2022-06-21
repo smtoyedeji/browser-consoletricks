@@ -7,4 +7,4 @@ Day 9 challenge of 21-days coding challenge
 ![Day 8 Challenge](./consoletricks.JPG "HTML Canvas")
 
 
-Project link: [Console Tricks Challenge](https://smtoyedeji.github.io/javascript21-9.github.io/)
+Project link: [Console Tricks Challenge](https://smtoyedeji.github.io/browser-consoletricks/)
